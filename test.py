@@ -1,0 +1,9 @@
+num1=5
+num2=6
+fname='joy'
+oname='peter'
+list1=[1,2]
+list2=[3,4]
+print(f'{num1+num2}\n')
+print(f'{fname+oname}\n')
+print(f'{list1+list2}\n')
